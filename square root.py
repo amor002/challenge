@@ -1,5 +1,6 @@
 
 from random import random, randint
+import math
 
 ACCURACY = 100
 
